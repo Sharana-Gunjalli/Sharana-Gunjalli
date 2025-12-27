@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharana-gunjalli&label=Profile%20views&color=0e75b6&style=flat" alt="sharana-gunjalli" /> </p>
 
-- 🔭 I’m currently Studying Ms in Data Science **Machine Learning and Data Science**
+- 🔭 Master of Science in Data Science graduate **Machine Learning and Data Science**
 
 - 📫 How to reach me **isharanagunjalli@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ihWxZRzWgv_SW86PqSGF3oM-FibTK5Ev/view?usp=sharing](https://drive.google.com/file/d/1ihWxZRzWgv_SW86PqSGF3oM-FibTK5Ev/view?usp=sharing)
 
 - ⚡ Fun fact **GitHub’s mascot, the Octocat, is named 'Monalisa'—a mix of cat and octopus, symbolizing creativity and flexibility in coding!**
 
